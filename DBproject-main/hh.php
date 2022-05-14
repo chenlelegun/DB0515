@@ -1,0 +1,1 @@
+<img src="php/images/food/Food-Name1710.jpg" width="600" heigh="400" alt="一張圖片">
